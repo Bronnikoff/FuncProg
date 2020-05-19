@@ -14,7 +14,7 @@
 
 [Laboratory work №4](lab4) --- *Variant №45*
 
-[Laboratory work №4](lab4) --- *Variant №29*
+[Laboratory work №5](lab5) --- *Variant №29*
 
 
 --------------
